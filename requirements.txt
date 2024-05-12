@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+pillow 
+django
+mysqlclient
+=======
+pillow 
+django
+mysqlclient
+>>>>>>> 9ca5443aa0d7dda1ffd15be6ac94b973d43068aa
